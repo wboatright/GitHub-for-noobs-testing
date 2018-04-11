@@ -1,0 +1,2 @@
+test text file for Git-Noobs repo.
+This is a test of the Atom text editor
